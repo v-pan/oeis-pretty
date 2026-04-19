@@ -106,7 +106,7 @@
 	<p>
 		For more information about the Encyclopedia, see the <a
 			class="text-blue-500 visited:text-indigo-500 hover:text-blue-600 hover:underline"
-			href="/welcome">Welcome</a
+			href="https://oeis.org/wiki/Welcome">Welcome</a
 		> page.
 	</p>
 </main>
