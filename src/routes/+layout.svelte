@@ -7,7 +7,8 @@
 	let { children } = $props();
 </script>
 
-<nav>
+<!-- TODO -->
+<!-- <nav>
 	<a href="/">Lookup</a>
 	<a href="/music">Listen</a>
 	<a href="/comparison-plot">Comparison Plot</a>
@@ -15,7 +16,7 @@
 	<a href="/glossary">Glossary</a>
 	<a href="/wiki">Wiki</a>
 	<a href="/index">Index</a>
-</nav>
+</nav> -->
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
 {@render children()}
